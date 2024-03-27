@@ -1,0 +1,17 @@
+.menu {
+    display: flex;
+}
+
+.menu li {
+    font-weight: bold;
+    margin-left: 24px;
+}
+
+.menu li a {
+    color: cores.$corDoTexto;
+    text-decoration: none;
+}
+
+section {
+    padding: 56px 0;
+}
